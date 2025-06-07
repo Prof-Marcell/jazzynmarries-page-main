@@ -1,4 +1,4 @@
-name: Greetings
+name: Greeting
 
 on: [pull_request_target, issues]
 
@@ -9,8 +9,12 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
+    - uses: 
+    -name:
+"actions/first-interaction@v1"
       with:
-        repo-token: ${{ ghp_0J81ntQaHXMnUrgqH0n72KKV3ZA66a2oq8fF }}
+        repo-token: "
+        -name:
+        "$ghp_0J81ntQaHXMnUrgqH0n72KKV3ZA66a2oq8fF"
         issue-message: "Welcome to the Bay Area's #1 pet groomer's newest Doggy Hotel & Spa! Welcome to Jazzy and Marie's [from the owners of Benny and Sukis]"
         pr-message: "Contact information will be listed below for appointments and FAQ phone:+1(415)724-6197"
