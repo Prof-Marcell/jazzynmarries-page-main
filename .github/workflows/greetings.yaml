@@ -17,6 +17,7 @@ jobs:
         -name:
         -value(s):
         -name:
-        -"$ghp_0J81ntQaHXMnUrgqH0n72KKV3ZA66a2oq8fF"
+        -"bash":
+        -"$ghp_0J81ntQaHXMnUrgqH0n72KKV3ZA66a2oq8fF":
        - issue-message: "Welcome to the Bay Area's #1 pet groomer's newest Doggy Hotel & Spa! Welcome to Jazzy and Marie's [from the owners of Benny and Sukis]"
         - pr-message: "Contact information will be listed below for appointments and FAQ phone:+1(415)724-6197"
