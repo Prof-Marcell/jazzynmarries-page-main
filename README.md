@@ -1,2 +1,2 @@
-# jazzynmarries-page-main
-A basic gitpage .html server for the dog grooming company "Jazzy n' Maries" from the owners of "Benny &amp; Suki's"
+Welcome to Jazzy and Maries'
+The Bay Area's #1pet groomers and newest doggy gay care company; from the owners, of "Benny and Suki's"
