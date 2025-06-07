@@ -1,0 +1,23 @@
+$TTL    604800
+@       IN      SOA     ns1.jazzyandmaries.com. admin.jazzyandmaries.com. (
+                        2025060701 ; Serial (YYYYMMDDnn)
+                        604800     ; Refresh
+                        86400      ; Retry
+                        2419200    ; Expire
+                        604800 )   ; Negative Cache TTL
+;
+; Nameservers
+@       IN      NS      ns1.jazzyandmaries.com.
+@       IN      NS      ns2.jazzyandmaries.com.
+@       IN      NS      ns3.jazzyandmaries.com.
+@       IN      NS      ns4.jazzyandmaries.com.
+
+; Nameserver IPs
+ns1     IN      A       185.199.108.153
+ns2     IN      A       185.199.109.153
+ns3     IN      A       185.199.110.153
+ns4     IN      A       185.199.111.153
+
+; Main domain A record
+@       IN      A       185.199.108.153
+www     IN      CNAME   jazzyandmaries.com.
