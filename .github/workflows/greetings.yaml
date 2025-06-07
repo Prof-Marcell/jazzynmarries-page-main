@@ -10,8 +10,7 @@ jobs:
       pull-requests: write
     steps:
     - uses: 
-    -name:
--"actions/first-interaction@v1":
+actions/first-interaction@v1:
       with:
         repo-token: 
         -name:
