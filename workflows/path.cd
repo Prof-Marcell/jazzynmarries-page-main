@@ -1,0 +1,31 @@
+Stage:
+set up:
+build:
+- config:
+-  cd /path/to/your/repo/repo:
+  - name:
+  -  "Merger-SPCMDLLMX":
+  merge:
+- commits:
+  - "[prof.marcell]":
+  deploy: 
+<<<ph?
+ <<.pkg
+    {
+      <<html>
+      <head>
+    <span<div= aria> -/hidden}value>"true">
+  https:git clone https://profmarcell@bitbucket.org/mondearchives/merger-spcmcdllmx.git
+</div>/span>
+/dotpkg>
+  </Head>
+  </ph>
+  run:
+  webserver:
+- add:
+  - name:
+  -  "git host remote add origin https://profmarcell@bitbucket.org/mondearchives/merger-spcmcdllmx.git
+git push -u origin Breach":
+  -push code:
+--force push
+  
